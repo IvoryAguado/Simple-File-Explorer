@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">File Explorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_del">Delete</string>
+    <string name="action_properties">Proprieties</string>
+    <string name="system_path">System</string>
+
+    <string name="filepath_is">Path: %1$s </string>
+    <string name="mtime_is">Last Modified on %1$s</string>
+    <string name="size_is">Size: %1$s</string>
+    <string name="total_capacity">Total Capacity: %1$s</string>
+    <string name="free_space">Free Space: %1$s</string>
+
+    <string name="goto_path_hint">Enter directory path eg. /sdcard/foo</string>
+    <string name="goto_path">Navigate to</string>
+    <string name="path_not_exist">Sorry. The directory could not be found</string>
+    <string name="yes">Yes</string>
+    <string name="actions">Actions</string>
+    <string name="no">No</string>
+    <string name="not_now">Not Now</string>
+    <string name="confirm">Confirm</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="abort">Aborted</string>
+    <string name="zip">Zip</string>
+
+
+</resources>
